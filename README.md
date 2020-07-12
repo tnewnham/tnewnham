@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+
+Industrious and enthusiastic management professional offering 10 years of analytics and customer service experience. Proven to consistently meet productivity, business, and customer service objectives. Successful record of managing and working with employees to improve performance and processes.
 
 <!--
 **tnewnham/tnewnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
